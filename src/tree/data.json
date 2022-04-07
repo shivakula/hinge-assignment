@@ -1,0 +1,39 @@
+[
+  { "id": 1, "name": "mammals", "className":"nested active", "parentId": -1 },
+  {
+    "id": 2,
+    "name": "Cheetah",
+    "parentId": 1,
+    "className":"nested active"
+  },
+  {
+    "id": 3,
+    "name": "Bear",
+    "parentId": 1,
+    "className":"nested active"
+  },
+  {
+    "id": 4,
+    "name": "Lion",
+    "parentId": 3,
+    "className":"nested active"
+  },
+  {
+    "id": 5,
+    "name": "Dog",
+    "parentId": 3,
+    "className":"nested active"
+  },
+  {
+    "id": 6,
+    "name": "elephant",
+    "parentId": 5,
+    "className":"nested active"
+  },
+  {
+    "id": 7,
+    "name": "ape",
+    "parentId": 1,
+    "className":"nested active"
+  }
+]
